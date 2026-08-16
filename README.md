@@ -204,7 +204,7 @@ From `frontend/`:
 
 ```bash
 npm install
-npm run serve -- --backend=http://localhost:8080
+npm run serve --backend=http://localhost:8080
 ```
 
 Frontend default: `http://localhost:4200`
