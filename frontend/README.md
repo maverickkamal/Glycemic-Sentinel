@@ -9,7 +9,6 @@ This app provides a web interface for running simulated T1D scenarios, tracking 
 ## Prerequisites
 
 - Node.js and npm
-- Angular CLI (`npm install -g @angular/cli`)
 - Backend API running at `http://localhost:8080`
 
 ## Setup
